@@ -11,7 +11,6 @@ A simple and efficient Book Management System to manage your book collection. Th
 - **Update Books**: Update existing book details.
 - **Delete Books**: Remove books from your collection.
 - **Search Books**: Search for books by title, author, or genre.
-- **User-Friendly Interface**: Simple and intuitive command-line interface.
 
 ## Installation
 
