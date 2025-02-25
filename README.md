@@ -12,8 +12,3 @@ A simple and efficient Book Management System to manage your book collection. Th
 - **Delete Books**: Remove books from your collection.
 - **Search Books**: Search for books by title, author, or genre.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/book-management-system.git
